@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\Medline\Jenkins\ExampleProjects\DemoWebApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+\\Mac\Home\Desktop\Medline\Jenkins\ExampleProjects\DemoWebApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\Mac\Home\Desktop\Medline\Jenkins\ExampleProjects\DemoWebApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\Mac\Home\Desktop\Medline\Jenkins\ExampleProjects\DemoWebApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Medline\Jenkins\ExampleProjects\DemoWebApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\Mac\Home\Desktop\Medline\Jenkins\ExampleProjects\DemoWebApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
